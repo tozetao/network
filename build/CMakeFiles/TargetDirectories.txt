@@ -1,0 +1,5 @@
+/home/cprojects/network/build/CMakeFiles/rebuild_cache.dir
+/home/cprojects/network/build/CMakeFiles/poll_server.dir
+/home/cprojects/network/build/CMakeFiles/edit_cache.dir
+/home/cprojects/network/build/CMakeFiles/net_lib.dir
+/home/cprojects/network/build/CMakeFiles/epoll_server.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/poll_server.dir/poll_server.c.o  -o poll_server libnet_lib.a 

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cprojects/network/epoll_server.c
+include/common.h
+/home/cprojects/network/include/common.h
+include/tcp_server.h
+/home/cprojects/network/include/tcp_server.h
+include/log.h
+/home/cprojects/network/include/log.h
+sys/epoll.h
+-
+
+/home/cprojects/network/include/common.h
+stdlib.h
+-
+stdio.h
+-
+sys/socket.h
+-
+sys/types.h
+-
+netinet/in.h
+-
+netinet/in.h
+-
+strings.h
+-
+errno.h
+-
+unistd.h
+-
+
+/home/cprojects/network/include/log.h
+common.h
+/home/cprojects/network/include/common.h
+
+/home/cprojects/network/include/tcp_server.h
+common.h
+/home/cprojects/network/include/common.h
+

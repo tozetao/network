@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/epoll_server.dir/epoll_server.c.o  -o epoll_server libnet_lib.a 
